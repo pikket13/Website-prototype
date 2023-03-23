@@ -1,4 +1,4 @@
-# Conecept of a renovated website
+# Concept of a renovated website
 Slovenian artist wants to rebrand and this is a prototype of a new website.
 
 
