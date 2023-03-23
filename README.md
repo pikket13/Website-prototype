@@ -1,5 +1,6 @@
-# Koncept-spletne-strani
-Slovenski umetnik želi prenovo spletne strani in tukaj je predstavljen koncept. 
+# Conecept of a renovated website
+Slovenian artist wants to rebrand and this is a prototype of a new website.
 
-Ogled je na voljo na linku:
+
+Available on this link:
 https://www.figma.com/file/sG3wdzjJRkdWMGC7NJEva5/Vazz?node-id=0%3A1 
